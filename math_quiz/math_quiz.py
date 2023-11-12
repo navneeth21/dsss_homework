@@ -27,7 +27,7 @@ def result(n1, n2, o):
 
 def math_quiz():
     s = 0
-    total =5
+    total = 5
     #t_q = 3.14159265359
 
     print("Welcome to the Math Quiz Game!")
